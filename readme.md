@@ -114,3 +114,10 @@ news_entertainment       0.86      0.86      0.86      8078
 4，引入正文
 
 ```
+
+
+### NLP chat group
+
+Welcome
+
+![](http://fate2.oss-cn-shanghai.aliyuncs.com/meta/qq-qun-nlp.jpeg)
