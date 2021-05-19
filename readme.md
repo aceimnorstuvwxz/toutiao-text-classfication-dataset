@@ -119,5 +119,3 @@ news_entertainment       0.86      0.86      0.86      8078
 ### NLP chat group
 
 Welcome
-
-![](http://fate2.oss-cn-shanghai.aliyuncs.com/meta/qq-qun-nlp.jpeg)
